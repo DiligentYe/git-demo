@@ -8,3 +8,5 @@
 # feature-C README.md
 
 # feature-D README.md
+
+## feature-D clone from origin/feature-D README.md
